@@ -1,1 +1,27 @@
-{}
+{
+    "slug": "a-deeper-look-inside-fold-s-categorisation-engine",
+    "title": "Why reinvent the wheel? A deeper look inside Fold’s categorisation engine",
+    "description": "A deeper look inside Fold’s categorisation engine",
+    "publishedAt": "2021-10-29T10:00:00.388Z",
+    "imageURL": "https://storage.googleapis.com/building-bridges-assets/latest/thumbnail_Fold_cover2_12845dce29/thumbnail_Fold_cover2_12845dce29.jpg",
+    "authors": [
+        {
+            "name": "Pete Jaison",
+            "imageURL": "https://storage.googleapis.com/building-bridges-assets/latest/Screenshot_2021_07_29_at_12_17_10_PM_343bfb8dc3/Screenshot_2021_07_29_at_12_17_10_PM_343bfb8dc3.png",
+            "designation": "Head of Growth"
+        }
+    ],
+    "column": null,
+    "category": {
+        "name": "Developer Relations",
+        "slug": "dev-rel"
+    },
+    "content": "PFM, short for Personal Finance Management, is an increasingly used abbreviation in the fintech space. It simply means aiding users to manage their money better. \n\nFold is a popular PFM app in India. They enable users to connect their financial accounts—like bank accounts, credit cards, and Investments—to the Fold app so that users can get a panoramic view of their finances and ultimately make better decisions.\n\n\n![](https://storage.googleapis.com/building-bridges-assets/latest/phonescreen_0e0ecbdb23/phonescreen_0e0ecbdb23.jpg)\n\nThe co-founder of Fold, Akash, expressed that the depth of transaction categorisation offered by Setu’s UPI Insights was a game-changer for them. \n\n> Traditional bank statements often contains fields like \"nextbillion@ybl\" which barely scratch the surface of potential insights. Setu’s solution, however, helps us peel back the layers, offering detailed data such as merchant name, and merchant type.\n\nThis level of detail is unprecedented and invaluable for a PFM app aiming to provide comprehensive financial insights. \n\n[Sign up here to learn more](https://setu.co/contact-sales/)\n\n**The Challenges of Dirty Data** \n\nAkash also pointed out a significant hurdle: the cleanliness of data. Many bank statements provide transaction details that are less than ideal, making it hard for fintechs to extract meaningful insights. \n\n> *Below is a snippet of the insights you can derive through our APIs. While Fold isn’t using it right now, theoretically any PFM app can do this with UPI Insights.*\n\n![](https://storage.googleapis.com/building-bridges-assets/latest/Fold_scorecard2_2_3f002c1c7e/Fold_scorecard2_2_3f002c1c7e.jpg)\n\nThe decision to partner with Setu was straightforward for Fold. Fold could have ventured to develop similar APIs in-house, but as Akash remarked, \"Why reinvent the wheel?\" Setu had already perfected this technology, establishing itself as a trusted partner in the fintech ecosystem. Their APIs are not just tools but foundations upon which innovative financial solutions can be built. \n\nDespite the initial challenge of latency in data processing, Setu demonstrated high ownership and swiftly optimised the system. This cemented Fold’s confidence in Setu as the right tech partner. \n\nThe integration opened up a plethora of potential use cases. Imagine discovering a gym transaction and then receiving contextual offers from nutrition companies—a vision of how interconnected services could offer tailored experiences to users. While not immediately on Fold’s roadmap, the capability to provide merchant-wise spending summaries, such as comparing expenses on Uber versus Swiggy, adds another layer of personal finance management. \n\nEncouraged by the success of UPI Insights, Fold plans to deepen its collaboration with Setu with other APIs, especially in the KYC domain.\n\nIn essence, Fold Money and Setu’s journey is not just about integrating technology; it’s about weaving a financial management tapestry that’s as detailed as it is user-friendly. And if we’ve learned anything, it’s that when it comes to managing money, the devil really is in the details—or in this case, the delight.\n\n[Sign up here to learn more](https://setu.co/contact-sales/) \n",
+    "tags": [
+        {
+            "id": 1,
+            "name": "Account Aggregator",
+            "slug": "account-aggregator"
+        }
+    ]
+}
